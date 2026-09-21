@@ -1,0 +1,6 @@
+{
+  "name": "NewEra Shop",
+  "description": "Modern Kenyan e-commerce platform offering top-tier tech, electronics, phones, computers, audio, and accessories with fast countrywide delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
